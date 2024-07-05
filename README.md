@@ -13,7 +13,7 @@ A Light-weight Flutter package for country and city picking, supporting English 
 - **phoneDigitsLength:** The length of phone number digits specific to the country (e.g., Saudi Arabia 🇸🇦 uses 9 digits).
 - **phoneDigitsLengthMax:** The maximum length of phone number digits allowed in the country (e.g., Saudi Arabia 🇸🇦 allows up to 10 digits).
 
-<img src="https://raw.githubusercontent.com/UNICODE-Venture/uni_country_city_picker/main/assets/screenshots/1.png" alt="UniCountryCityPicker by Saif">
+<img src="https://raw.githubusercontent.com/UNICODE-Venture/uni_country_city_picker/main/assets/screenshots/1.png" alt="UniCountryCityPicker by Saif" width="400" height="500">
 
 ## Getting started
 
