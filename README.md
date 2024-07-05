@@ -1,6 +1,6 @@
 #### Country and city picker library Crafted by the **[UNICODE Team](https://www.unicodesolutions.co/)**
 
-A Light-weight Flutter package for country and city picking, supporting English and Arabic seamlessly.
+A Light-weight Flutter package for country and city picking, supporting English and Arabic seamlessly 🇸🇦💙🇧🇩❤️🇪🇬
 
 # **Features support**
 
@@ -13,7 +13,7 @@ A Light-weight Flutter package for country and city picking, supporting English 
 - **phoneDigitsLength:** The length of phone number digits specific to the country (e.g., Saudi Arabia 🇸🇦 uses 9 digits).
 - **phoneDigitsLengthMax:** The maximum length of phone number digits allowed in the country (e.g., Saudi Arabia 🇸🇦 allows up to 10 digits).
 
-<img src="https://raw.githubusercontent.com/UNICODE-Venture/uni_country_city_picker/main/assets/screenshots/1.png" width=200, height=400 alt="UniCountryCityPicker by Saif">
+<img src="https://raw.githubusercontent.com/UNICODE-Venture/uni_country_city_picker/main/assets/screenshots/1.png" alt="UniCountryCityPicker by Saif">
 
 ## Getting started
 

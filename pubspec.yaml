@@ -4,7 +4,7 @@
 # In love from Riyadh, Saudi Arabia 🇸🇦💙🇧🇩.
 
 name: uni_country_city_picker
-description: "A Flutter package for country and city picking, supporting English and Arabic seamlessly 🇸🇦💙🇧🇩."
+description: "A Flutter package for country and city picking, supporting English and Arabic seamlessly."
 version: 1.0.0
 repository: https://github.com/UNICODE-Venture/uni_country_city_picker
 homepage: https://github.com/UNICODE-Venture/uni_country_city_picker
