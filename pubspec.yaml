@@ -1,0 +1,37 @@
+# Uni Country City Picker
+# A Light-weight Flutter package for country and city picking, supporting English and Arabic seamlessly.
+# Developed and maintained by [Saif | سيف](https://mohammadsaif.dev).
+# In love from Riyadh, Saudi Arabia 🇸🇦💙🇧🇩.
+
+name: uni_country_city_picker
+description: "A Flutter package for country and city picking, supporting English and Arabic seamlessly 🇸🇦💙🇧🇩."
+version: 1.0.0
+repository: https://github.com/UNICODE-Venture/uni_country_city_picker
+homepage: https://github.com/UNICODE-Venture/uni_country_city_picker
+issue_tracker: https://github.com/UNICODE-Venture/uni_country_city_picker/issues
+
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+    - assets/json/
