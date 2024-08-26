@@ -19804,12 +19804,71 @@
     "nameEn": "Saudi Arabia",
     "flag": "🇸🇦",
     "cities": [
-      { "name": "عسير", "code": "14", "nameEn": "'Asir" }, { "name": "الباحة", "code": "11", "nameEn": "Al Bahah" }, { "name": "الجوف", "code": "12", "nameEn": "Al Jawf" }, { "name": "المدينة المنورة", "code": "03", "nameEn": "Al Madinah" }, { "name": "القصيم", "code": "05", "nameEn": "Al-Qassim" }, { "name": "المنطقة الشرقية", "code": "04", "nameEn": "Eastern Province" }, { "name": "حائل", "code": "06", "nameEn": "Ha'il" }, { "name": "جيزان", "code": "09", "nameEn": "Jizan" }, { "name": "مكة المكرمة", "code": "02", "nameEn": "Makkah" }, { "name": "نجران", "code": "10", "nameEn": "Najran" }, { "name": "الحدود الشمالية", "code": "08", "nameEn": "Northern Borders" }, { "name": "الرياض", "code": "01", "nameEn": "Riyadh" }, { "name": "تبوك", "code": "07", "nameEn": "Tabuk" }
-
-
-
-
-
+      {
+        "name": "عسير",
+        "code": "14",
+        "nameEn": "'Asir"
+      },
+      {
+        "name": "الباحة",
+        "code": "11",
+        "nameEn": "Al Bahah"
+      },
+      {
+        "name": "الجوف",
+        "code": "12",
+        "nameEn": "Al Jawf"
+      },
+      {
+        "name": "المدينة المنورة",
+        "code": "03",
+        "nameEn": "Al Madinah"
+      },
+      {
+        "name": "القصيم",
+        "code": "05",
+        "nameEn": "Al-Qassim"
+      },
+      {
+        "name": "المنطقة الشرقية",
+        "code": "04",
+        "nameEn": "Eastern Province"
+      },
+      {
+        "name": "حائل",
+        "code": "06",
+        "nameEn": "Ha'il"
+      },
+      {
+        "name": "جيزان",
+        "code": "09",
+        "nameEn": "Jizan"
+      },
+      {
+        "name": "مكة المكرمة",
+        "code": "02",
+        "nameEn": "Makkah"
+      },
+      {
+        "name": "نجران",
+        "code": "10",
+        "nameEn": "Najran"
+      },
+      {
+        "name": "الحدود الشمالية",
+        "code": "08",
+        "nameEn": "Northern Borders"
+      },
+      {
+        "name": "الرياض",
+        "code": "01",
+        "nameEn": "Riyadh"
+      },
+      {
+        "name": "تبوك",
+        "code": "07",
+        "nameEn": "Tabuk"
+      }
     ],
     "phoneDigitsLength": 9,
     "phoneDigitsLengthMax": 10
@@ -25285,7 +25344,41 @@
     "nameEn": "United Arab Emirates",
     "flag": "🇦🇪",
     "cities": [
-      
+      {
+        "name": "إمارة أبوظبي",
+        "code": "AZ",
+        "nameEn": "Abu Dhabi Emirate"
+      },
+      {
+        "name": "إمارة عجمان",
+        "code": "AJ",
+        "nameEn": "Ajman Emirate"
+      },
+      {
+        "name": "دبي",
+        "code": "DU",
+        "nameEn": "Dubai"
+      },
+      {
+        "name": "الفجيرة",
+        "code": "FU",
+        "nameEn": "Fujairah"
+      },
+      {
+        "name": "رأس الخيمة",
+        "code": "RK",
+        "nameEn": "Ras al-Khaimah"
+      },
+      {
+        "name": "إمارة الشارقة",
+        "code": "SH",
+        "nameEn": "Sharjah Emirate"
+      },
+      {
+        "name": "أم القيوين",
+        "code": "UQ",
+        "nameEn": "Umm al-Quwain"
+      }
     ],
     "phoneDigitsLength": 9,
     "phoneDigitsLengthMax": 10
