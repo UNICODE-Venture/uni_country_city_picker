@@ -1,5 +1,9 @@
 import 'dart:convert';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:uni_country_city_picker/src/core/features/countries_bottom_sheet.dart';
+import 'package:uni_country_city_picker/src/core/features/widgets/primary_cupertino_bottom_sheet.dart';
+import 'package:uni_country_city_picker/src/utils/enums.dart';
 
 import '../../constants/assets_path.dart';
 import '../models/country.dart';
@@ -36,5 +40,22 @@ class UniCountryServices {
       return countriesAndCities;
     }
     return countriesAndCities;
+  }
+
+  Future<void> showCountryCityPicker({
+    required BuildContext context,
+    required Function(Country?)? onSelectedCountry,
+    String? initialCounryIsoCode,
+    UniLocale? locale,
+  }) async {
+    await primaryCupertinoBottomSheet(
+      context: context,
+      isShowCloseIcon: false,
+      child: CountrySelectionBottomSheet(
+        initialCounryIsoCode: initialCounryIsoCode,
+        seletedCountry: onSelectedCountry,
+        locale: locale ?? UniLocale.en,
+      ),
+    );
   }
 }

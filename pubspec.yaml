@@ -27,6 +27,15 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #* Localizations
+  flutter_localizations:
+    sdk: flutter
+
+  # collection: ^1.18.0
+  # flutter_svg: ^1.0.3
+  flutter_svg: ^2.0.14
+  modal_bottom_sheet: ^3.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -35,3 +44,4 @@ dev_dependencies:
 flutter:
   assets:
     - assets/json/
+    - assets/icons/
