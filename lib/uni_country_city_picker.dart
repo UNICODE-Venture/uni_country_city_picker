@@ -11,3 +11,6 @@ export 'src/core/models/country.dart';
 
 /// Services for country and city
 export 'src/core/services/uni_country_services.dart';
+
+/// Enums for country and city
+export 'src/utils/enums.dart';
