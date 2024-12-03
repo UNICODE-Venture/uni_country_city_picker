@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Added all the cities names in Arabic.
+
 ## 1.0.1
 
 - Added the docs and screenshot ✅.

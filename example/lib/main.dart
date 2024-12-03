@@ -57,7 +57,7 @@ class _CountriesAndCitiesViewState extends State<CountriesAndCitiesView> {
           itemBuilder: (_, i) {
             Country country = countriesAndCities[i];
             return ListTile(
-              onTap: () => print(country.toMap()),
+              onTap: () => debugPrint(country.toMap().toString()),
               title: Text(
                 "${country.nameEn} (${country.flag}${country.dialCode})",
                 style: const TextStyle(
